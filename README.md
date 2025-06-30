@@ -5,7 +5,7 @@
 
 ## 🚀 Linguagens Mais Utilizadas
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=asaphnicholas&layout=compact&theme=dracula) 
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=asaphnicholas&layout=compact&theme=dracula)
 
 ## Tecnologias 💻
 
